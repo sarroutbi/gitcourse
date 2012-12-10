@@ -8,6 +8,6 @@ int main(void)
   printf("Hello, I am changing master branch\n");
 
   printf("Luis Piedra: Amend commit\n");
-
-  exit 3;
+  printf("Sergio Arroutbi: Completion of this powerful program\n");
+  exit 4;
 }
