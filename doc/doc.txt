@@ -1,2 +1,3 @@
 This is a small documentation file
 Another line changed on the documentation
+This is an update of doc on test_branch
