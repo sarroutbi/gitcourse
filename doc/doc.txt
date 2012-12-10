@@ -3,3 +3,4 @@ Another line changed on the documentation
 This is an update of doc on test_branch
 This is another update of doc on test_branch
 This is another update of doc on test_branch, another one, yes
+Commit in the master branch
